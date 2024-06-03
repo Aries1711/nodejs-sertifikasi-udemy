@@ -2,16 +2,22 @@
   "name": "project-learn",
   "version": "1.0.0",
   "description": "belajar nodejs npm certification ",
-  "exports": {
-    ".": "./index.js",
-    "./write": "./write.js"
-  },
-  "type": "module",
   "homepage": "https://buatku.com",
   "repository": {
     "type": "git",
     "url": "https://github.com/Aries1711/nodejs-sertifikasi-udemy"
   },
+  "keywords": [
+    "certification",
+    "nodejs"
+  ],
+  "author": "Arisqi Setyawan",
+  "license": "ISC",
+  "exports": {
+    ".": "./index.js",
+    "./write": "./write.js"
+  },
+  "type": "module",
   "scripts": {
     "run": "node index.js",
     "prestart": "echo 'before start execution'",
@@ -19,10 +25,7 @@
     "poststart": "echo 'after start execution'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "certification",
-    "nodejs"
-  ],
-  "author": "Arisqi Setyawan",
-  "license": "ISC"
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
