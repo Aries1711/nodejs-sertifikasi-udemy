@@ -1,0 +1,2 @@
+# Files and directory that ignored to prevent publish it on npmjs.com package repository
+*.log
