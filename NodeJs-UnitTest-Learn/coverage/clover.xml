@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1718118763993" clover="3.2.0">
+  <project timestamp="1718118763993" name="All files">
+    <metrics statements="27" coveredstatements="27" conditionals="4" coveredconditionals="4" methods="8" coveredmethods="8" elements="39" coveredelements="39" complexity="0" loc="27" ncloc="27" packages="1" files="3" classes="3"/>
+    <file name="async.js" path="/Users/levastation/Documents/WEB_APP/NODEJS/udemi-certification/NodeJs-UnitTest-Learn/src/async.js">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="3" type="stmt"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="4" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="exception.js" path="/Users/levastation/Documents/WEB_APP/NODEJS/udemi-certification/NodeJs-UnitTest-Learn/src/exception.js">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="3" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="sum.js" path="/Users/levastation/Documents/WEB_APP/NODEJS/udemi-certification/NodeJs-UnitTest-Learn/src/sum.js">
+      <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="1" count="2" type="stmt"/>
+      <line num="2" count="5" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="5" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="16" count="4" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="21" count="2" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="24" count="3" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
